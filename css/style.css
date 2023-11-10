@@ -1,0 +1,17 @@
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    color: rgb(255, 0, 140);
+    
+}
+.link-container {
+    display: flex;
+    list-style-type: none;
+    
+}
+.link-container > li {
+    margin-left: 1em;
+}
