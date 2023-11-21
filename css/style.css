@@ -1,3 +1,6 @@
+.container {
+    padding: 0 30px;
+}
 .head {
     display: flex;
     align-items: center;
@@ -13,5 +16,200 @@
     
 }
 .link-container > li {
-    margin-left: 1em;
+    margin-left: 3em;
+}
+.pink {
+    display: flex;
+    width: 100%;
+    background-color: rgba(255, 191, 201, 0.893);
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.home {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 0 0 80px;
+}
+.introduction {
+    width: 300px;
+   
+}
+.search {
+    height: 30px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 35px;
+    font-size: 10px;
+    font-weight: 500;
+}
+.orange-watch {
+    height: 250px;
+    width: 250px;
+    margin: 0 0 0 -300px;
+    padding: 20px 0;
+    border-radius: 15%;
+}
+.beaded-bag {
+    height: 150px;
+    width: 100px;
+    border-bottom-right-radius: 20px;
+}
+.image2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-left: -300px;
+    gap: 20px;
+   
+}
+.icons {
+    display: flex;
+    flex-direction: column;
+    margin-right: 15px;
+    gap: 15px;
+}
+.options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.options ul li {
+    list-style-type: none;
+}
+.choice {
+    display: flex;
+    gap: 4rem;
+    
+}
+.choice li {
+    font-weight: 400;
+}
+.arrows {
+    display: flex;
+    gap: 2rem;
+    
+}
+.new {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 20px;
+    
+}
+.newtwo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 20px;
+    
+}
+.new-image {
+    height: 350px;
+    width: 300px;
+    border-radius: 10px;
+    
+}
+.new-image1 {
+    height: 350px;
+    width: 300px;
+    border-radius: 10px;
+}
+.new-image2 {
+    height: 350px;
+    width: 300px;
+    border-radius: 10px;
+}
+.price {
+    font-weight: 800;
+    margin-top: -10px;
+}
+.see-all {
+    display: flex;
+    background-color: rgb(233, 233, 244);
+    align-items: center;
+    justify-content: space-around;
+    margin:50px 70px;
+    height: 230px;
+    border-radius: 5px;
+    
+} 
+.all {
+    background-color: rgb(255, 80, 139);
+    width: 100px;
+    height: 30px;
+    padding: 5px ;
+
+}
+.button {
+    margin: 5px 10px 20px 25px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.sample {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: -100px;
+    
+
+}
+.Latest {
+    height: 250px;
+    width: 180px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.intro {
+    font-size: 23px;
+    font-weight: 600;
+}
+.collection {
+    margin-top: -15px;
+}
+.foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+    margin-top: 70px;
+    color: aliceblue;
+    background-color: rgb(6, 6, 17);
+    padding: 50px;
+}
+.links {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.links ul {
+    list-style-type: none;
+    font-weight: 300;
+   
+
+}
+.links ul li {
+    padding: 10px;
+}
+.span {
+    padding: 0 0 10px;
+    font-weight: 500;
+    
+}
+.calls svg  {
+   padding: 0 10px;
+}
+.calls {
+    margin-left: -45px;
 }
