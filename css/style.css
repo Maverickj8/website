@@ -35,7 +35,7 @@
     background-color: rgba(255, 191, 201, 0.893);
     border-radius: 20px;
     justify-content: space-between;
-    position: relative;
+    
     top: 100px;
     
 }
@@ -156,7 +156,7 @@
     margin:50px 70px;
     height: 230px;
     border-radius: 5px;
-    position: absolute;
+    
     
 } 
 .all {
